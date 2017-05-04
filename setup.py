@@ -14,5 +14,5 @@ setup(name='graphene-mongoengine',
           'django',
           'graphql_relay',
           'graphene_django'
-      ]
+      ],
       zip_safe=False)
